@@ -1,4 +1,4 @@
-# Keras-FlappyBird
+# FlappyBird
 
 A single 200 lines of python code to demostrate DQN with Keras
 
